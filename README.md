@@ -17,9 +17,9 @@
 
 ---
 
-**Documentation**: <a href="https://jeafreezy.github.io/nigeria_geodata" target="_blank">https://jeafreezy.github.io/nigeria_geodata/</a>
+**Documentation**: <a href="https://spatialnode.github.io/nigeria_geodata" target="_blank">https://spatialnode.github.io/nigeria_geodata/</a>
 
-**Source Code**: <a href="https://github.com/jeafreezy/nigeria_geodata" target="_blank">https://github.com/jeafreezy/nigeria_geodata</a>
+**Source Code**: <a href="https://github.com/spatialnode/nigeria_geodata" target="_blank">https://github.com/spatialnode/nigeria_geodata</a>
 
 ---
 
@@ -104,7 +104,7 @@ print(search_results)
 # this will return a dataframe with all the available health care datasets.
 ```
 
-Under the hood, this makes an api request to the GRID3 database to get the datasets. Refer to the **[documentation](https://jeafreezy.github.io/nigeria_geodata)** and **examples** for more use cases.
+Under the hood, this makes an api request to the GRID3 database to get the datasets. Refer to the **[documentation](https://spatialnode.github.io/nigeria_geodata)** and **examples** for more use cases.
 
 ## Acknowledgment
 
@@ -112,4 +112,4 @@ In addition to the great libraries we're resting upon, we would also like to tha
 
 ## License
 
-This project is licensed under the terms of the MIT license. See [LICENSE.MD](https://github.com/jeafreezy/nigeria_geodata?tab=License-1-ov-file).
+This project is licensed under the terms of the MIT license. See [LICENSE.MD](https://github.com/spatialnode/nigeria_geodata?tab=License-1-ov-file).
